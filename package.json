@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pnpm dlx chii-remote start"
+    "start": "pnpm dlx chii start -p 8080"
   },
   "keywords": [],
   "author": "",
